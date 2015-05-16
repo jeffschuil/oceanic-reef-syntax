@@ -1,5 +1,11 @@
-# oceanic-reef theme
+# Oceanic Reef Theme
 
-A short description of your theme.
+A syntax theme for [Atom](https://atom.io/) based off the [Oceanic](https://github.com/memco/Oceanic-tmTheme) TextMate theme. Brighter blues and some other changes I've made over time. Recommended with One Dark UI.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+### Screenshots
+
+![screenshot](/screenshots/screenshot_sass.png)
+
+![screenshot](/screenshots/screenshot_rb.png)
+
+![screenshot](/screenshots/screenshot_js.png)
