@@ -9,3 +9,7 @@ A syntax theme for [Atom](https://atom.io/) based off the [Oceanic](https://gith
 ![screenshot](https://github.com/jeffschuil/oceanic-reef-syntax/raw/master/screenshots/screenshot_rb.png)
 
 ![screenshot](https://github.com/jeffschuil/oceanic-reef-syntax/raw/master/screenshots/screenshot_js.png)
+
+### Terminal
+
+- A complementary macOS [oceanic-reef-terminal](https://github.com/jeffschuil/oceanic-reef-terminal) profile.
